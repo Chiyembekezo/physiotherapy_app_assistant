@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "439924572380",
+    "firebase_url": "https://physiotherapy-assistant-default-rtdb.firebaseio.com",
+    "project_id": "physiotherapy-assistant",
+    "storage_bucket": "physiotherapy-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439924572380:android:922dd1d80fec81024db419",
+        "android_client_info": {
+          "package_name": "com.example.physio_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8d-kb_b_9eyGjDeumYEskQMYF9Ny38ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439924572380:android:13e674df384379d34db419",
+        "android_client_info": {
+          "package_name": "com.example.physiotherapy_app_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439924572380-e3btego6m62dnrgv1dvv7oemcmum45h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.physiotherapy_app_assistant",
+            "certificate_hash": "bb9e63bb10962d9c32c2c1f7466d0ad13dc03989"
+          }
+        },
+        {
+          "client_id": "439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8d-kb_b_9eyGjDeumYEskQMYF9Ny38ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439924572380:android:f56a770c982388984db419",
+        "android_client_info": {
+          "package_name": "com.example.physiotherapy_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439924572380-fpaprvbrq5obpo0p21u4h1gu8lhpdhi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.physiotherapy_assistant",
+            "certificate_hash": "bb9e63bb10962d9c32c2c1f7466d0ad13dc03989"
+          }
+        },
+        {
+          "client_id": "439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8d-kb_b_9eyGjDeumYEskQMYF9Ny38ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">439924572380-ak4u83pch1dst17074gmdmbp2817asgr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://physiotherapy-assistant-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">439924572380</string>
+    <string name="google_api_key" translatable="false">AIzaSyC8d-kb_b_9eyGjDeumYEskQMYF9Ny38ow</string>
+    <string name="google_app_id" translatable="false">1:439924572380:android:13e674df384379d34db419</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC8d-kb_b_9eyGjDeumYEskQMYF9Ny38ow</string>
+    <string name="google_storage_bucket" translatable="false">physiotherapy-assistant.appspot.com</string>
+    <string name="project_id" translatable="false">physiotherapy-assistant</string>
+</resources>
